@@ -131,7 +131,7 @@ strings:
     productUrl:          https://snigdhaos.org/
     supportUrl:          https://forum.snigdhaos.org/
     knownIssuesUrl:      https://github.com/Snigdha-OS/snigdhaos-arctic/issues
-    releaseNotesUrl:     https://docs.snigdhaos.org/
+    releaseNotesUrl:     https://docs.snigdhaos.org/introduction/release_notes
 #    donateUrl:           https://kde.org/community/donations/index.php
 
 # These images are loaded from the branding module directory.
