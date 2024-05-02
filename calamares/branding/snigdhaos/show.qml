@@ -48,7 +48,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background2
-            source: "calamares-2.png"
+            source: "calamares-1.png"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
@@ -62,7 +62,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background4
-            source: "calamares-3.png"
+            source: "calamares-2.png"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
@@ -76,7 +76,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background5
-            source: "calamares-4.png"
+            source: "calamares-3.png"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
@@ -90,7 +90,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background6
-            source: "calamares-5.png"
+            source: "calamares-4.png"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
@@ -104,7 +104,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background7
-            source: "calamares-6.png"
+            source: "calamares-5.png"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
@@ -118,7 +118,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background8
-            source: "calamares-7.png"
+            source: "calamares-6.png"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
@@ -132,7 +132,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background9
-            source: "calamares-8.png"
+            source: "calamares-7.png"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
@@ -146,7 +146,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background10
-            source: "calamares-9.png"
+            source: "calamares-8.png"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
@@ -160,7 +160,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background11
-            source: "calamares-10.png"
+            source: "calamares-9.png"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
@@ -174,7 +174,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background12
-            source: "calamares-11.png"
+            source: "calamares-10.png"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
@@ -188,7 +188,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background13
-            source: "calamares-12.png"
+            source: "calamares-11.png"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
@@ -202,7 +202,7 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background14
-            source: "calamares-13.png"
+            source: "calamares-12.png"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
