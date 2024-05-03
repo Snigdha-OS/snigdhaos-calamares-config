@@ -7,10 +7,9 @@
   packages:
     - arduino
     - bluefish
-    - brackets-bin
     - code
     - codeblocks
-    - emacs
+    - emacs-ng
     - geany
     - geany-plugins
     - glade
@@ -30,5 +29,3 @@
     - sublime-text-4
     - vim
     - vim-runtime
-    - visual-studio-code-bin
-    - vscodium-bin
