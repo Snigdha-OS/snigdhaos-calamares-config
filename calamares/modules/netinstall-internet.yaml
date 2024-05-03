@@ -5,24 +5,11 @@
   selected: false
   expanded: true
   packages:
-    - brave-bin
-    - chrome-gnome-shell
-    - chromium
-    - chromium-widevine
-    - falkon
-    - firefox
-    - firefox-adblock-plus
-    - firefox-ublock-origin
-    - google-chrome
-    - icecat
-    - librewolf-bin
-    - netsurf
-    - opera
-    - qutebrowser
-    - torbrowser-launcher
-    - vivaldi
-    - vivaldi-ffmpeg-codecs
-    - vivaldi-widevine
+    - snigdhaos-brave-config
+    - snigdhaos-chrome-config
+    - snigdhaos-firefox-config
+    - snigdhaos-firefox-esr
+    - snigdhaos-waterfox-config
 - name: "Downloaders"
   description: "Downloaders"
   critical: false

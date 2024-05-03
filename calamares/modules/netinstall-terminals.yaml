@@ -77,8 +77,6 @@
     - toilet
     - tty-clock
     - tty-clock-git
-    - ufetch-git
-    - ufetch-arco-git
     - unimatrix-git
     - wttr
 - name: "Zsh"
@@ -96,6 +94,5 @@
     - zsh-syntax-highlighting
     - zsh-syntax-highlighting-git
     - zsh-theme-powerlevel10k-git
-    - arcolinux-zsh-git
     - oh-my-zsh-git
     - oh-my-zsh-powerline-theme-git
