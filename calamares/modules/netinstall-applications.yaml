@@ -15,6 +15,7 @@
     - mediainfo-gui-qt
     - mcomix
     - nomacs
+    - okular
     - pdfarranger
     - plank
     - screenkey
@@ -27,12 +28,14 @@
   expanded: true
   packages:
     - gitahead
-    - gitbucket
     - gitg
-    - gitfiend
     - github-cli
     - github-desktop
+    - github-desktop-bin
     - gitkraken
+    - gitlab
+    - gitlab-pages
+    - gitlab-shell
 - name: "Password Manager"
   description: "Password managers"
   critical: false
@@ -44,6 +47,7 @@
     - enpass-bin
     - keepassxc
     - lastpass
+    - lastpass-cli
 - name: "Privacy"
   description: "Applications that ensure your privacy"
   critical: false
@@ -95,5 +99,4 @@
     - qemu-base
     - qemu-full
     - quickemu
-    - quickemu-git
     - quickgui-bin
